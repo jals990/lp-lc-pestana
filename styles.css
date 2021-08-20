@@ -1,0 +1,20 @@
+:root {
+  --white: #f0f2f5;
+  --dark: #090c15;
+  --yellow: #ff9e43;
+  --green: #03dae2;
+  --red: #e7202d;
+  --pink: #FF1E5E;
+  --text: #666666;
+  --gray-hard: #312E38;
+  --gray-soft: #C4C4C4;
+  --button: #E71A41;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
